@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Hi, there! :heart_eyes:
+
+## About me :man:
+
+I'm a result-oriented Engineer with expertise in building functional and
+safe functions for automated driving and electric vehicle. Extremely motivated to incessantly develop my skills and grow
+personally and professionally. I am confident in my ability to come up with interesting ideas and realize it.
+
+## Areas of Research :computer:
+
+✔ Automated Driving
+✔ Electric Vehicle
+
 <!--
 **deepakrajpurushothaman/deepakrajpurushothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
