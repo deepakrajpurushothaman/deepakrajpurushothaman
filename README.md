@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi, there! :heart_eyes:
-
 ## About me :man:
 
 I'm a result-oriented Engineer with expertise in building functional and
