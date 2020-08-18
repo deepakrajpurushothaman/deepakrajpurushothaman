@@ -10,6 +10,7 @@ personally and professionally. I am confident in my ability to come up with inte
 
 ✔ Automated Driving
 ✔ Electric Vehicle
+✔ Connected Vehicle
 
 <!--
 **deepakrajpurushothaman/deepakrajpurushothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
