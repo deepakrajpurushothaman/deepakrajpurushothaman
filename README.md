@@ -2,9 +2,7 @@
 
 ## About me :man:
 
-I'm a result-oriented Engineer with expertise in building functional and
-safe functions for automated driving and electric vehicle. Extremely motivated to incessantly develop my skills and grow
-personally and professionally. I am confident in my ability to come up with interesting ideas and realize it.
+I am someone who is Constantly  looking for problems to solve. The number of problems I can solve depends on the number of problems I can find. If I find one I start working on it. I have expertise in building functional and safe functions for automated driving and electric vehicle. Extremely motivated to develop my skills and grow personally and professionally. I am confident in my ability to dream of interesting ideas and bring them to reality.
 
 ## Areas of Research :computer:
 
