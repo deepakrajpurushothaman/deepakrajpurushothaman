@@ -2,7 +2,7 @@
 
 ## About me :man:
 
-I am someone who is Constantly  looking for problems to solve. The number of problems I can solve depends on the number of problems I can find. If I find one I start working on it. I have expertise in building functional and safe functions for automated driving and electric vehicle. Extremely motivated to develop my skills and grow personally and professionally. I am confident in my ability to dream of interesting ideas and bring them to reality.
+I am someone who is constantly  looking for problems to solve. I have expertise in building functional and safe functions for automated driving and electric vehicle. Extremely motivated to transform way we live, way we work and way we MOVE. I am confident in my ability to dream of interesting ideas and bring them to reality.
 
 ## Areas of Research :computer:
 
