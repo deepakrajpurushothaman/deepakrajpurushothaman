@@ -7,6 +7,8 @@ I am someone who is constantly  looking for problems to solve. I have expertise 
 - 🔭 I’m currently working on issues on OpenPilot 
 - 🌱 I’m currently learning Autoware.Auto stack development with the help of Apex.Ai
 - 👯 I’m looking to collaborate on Autonomous Driving Stack development 
+- 📫 How to reach me: Per Email - deepak.purushothaman@rwth-aachen.de
+- 💬 Ask me about anything related to Automotive 
 
 ## Areas of Research :computer:
 
