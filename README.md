@@ -4,6 +4,8 @@
 
 I am someone who is constantly  looking for problems to solve. I have expertise in building functional and safe solutions for automated driving and electric vehicle. Extremely motivated to transform way we live, way we work and way we MOVE. I am confident in my ability to dream of interesting ideas and bring them to reality.
 
+If you take a tour through my repositories you will find knowledge related to state-of-the-art techniques automotive development that combine hardware, software, algorithms, methodologies, tools, and data analytics.
+
 - 🔭 I’m currently working on issues on OpenPilot 
 - 🌱 I’m currently learning Autoware.Auto stack development with the help of Apex.Ai
 - 👯 I’m looking to collaborate on Autonomous Driving Stack development 
