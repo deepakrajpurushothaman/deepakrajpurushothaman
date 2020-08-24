@@ -6,7 +6,7 @@ An open Innovation accelerator and someone who is constantly  looking for proble
 
 If you take a tour through my repositories you will find knowledge related to state-of-the-art techniques automotive development that combine hardware, software, algorithms, methodologies, tools, and data analytics.
 
-- 🔭 I’m currently working on issues on OpenPilot 
+- 🔭 I’m currently working on issues on OpenPilot and serving as beta tester for coursera
 - 🌱 I’m currently learning Autoware.Auto stack development with the help of Apex.Ai
 - 👯 I’m looking to collaborate on Autonomous Driving Stack development 
 - 📫 How to reach me: Per Email - deepak.purushothaman@rwth-aachen.de
