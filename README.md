@@ -11,6 +11,7 @@ If you take a tour through my repositories you will find knowledge related to st
 - 👯 I’m looking to collaborate on Autonomous Driving Stack development 
 - 📫 How to reach me: Per Email - deepak.purushothaman@rwth-aachen.de
 - 💬 Ask me about anything related to Automotive 
+--> If you want more information. You will find digital version of mysef under the link. https://deepakrajpurushothaman.github.io/ 
 
 ## Areas of Research :computer:
 
