@@ -8,6 +8,7 @@ If you take a tour through my repositories you will find knowledge related to st
 
 - 🔭 I’m currently working on issues on OpenPilot and serving as beta tester for coursera
 - 🌱 I’m currently learning Autoware.Auto stack development with the help of Apex.Ai
+- 🌱 I’m currently learning Baidu's self driving car stack development with the help of Apollo
 - 👯 I’m looking to collaborate on Autonomous Driving Stack development 
 - 📫 How to reach me: Per Email - deepak.purushothaman@rwth-aachen.de
 - 💬 Ask me about anything related to Automotive 
