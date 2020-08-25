@@ -6,6 +6,7 @@ An open Innovation accelerator and someone who is constantly  looking for proble
 
 If you take a tour through my repositories you will find knowledge related to state-of-the-art techniques automotive development that combine hardware, software, algorithms, methodologies, tools, and data analytics.
 
+- 🔭 I’m currently working on development of Autonomous Vehicles Motion Prediction for Lyft project and validation using Lyft prediction data  
 - 🔭 I’m currently working on issues on OpenPilot and serving as beta tester for coursera
 - 🌱 I’m currently learning Autoware.Auto stack development with the help of Apex.Ai
 - 🌱 I’m currently learning Baidu's self driving car stack development with the help of Apollo
