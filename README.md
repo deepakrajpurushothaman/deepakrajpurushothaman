@@ -6,7 +6,7 @@ An open Innovation accelerator and someone who is constantly  looking for proble
 
 If you take a tour through my repositories you will find knowledge related to state-of-the-art techniques automotive development that combine hardware, software, algorithms, methodologies, tools, and data analytics.
 
-- 🎉 Winner of oentive Open Innovation Challenge. Award: 1000 Euro
+- 🎉 Winner of Innocentive Open Innovation Challenge. Award: 1000 Euro
 - 🎉 Finalist of Smart Mobility open Innovation contest by Siemens. Award: Design Thinking Workshop at Siemens
 
 - 🧑🏽‍💼 Associated with organizations: Daimler, Valeo Siemens eAutomotive, Ford, FEV, Ricardo, IKA RWTH Aachen, Bosch, Meritor Heavy Vehicles, CREST NIE.
