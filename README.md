@@ -26,6 +26,7 @@ If you take a tour through my repositories you will find knowledge related to st
 ✔ Electric Vehicle
 ✔ Connected Vehicle
 
+[![Linkedin Badge](https://img.shields.io/badge/-Peter_Pesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrajpurushothaman/)](https://www.linkedin.com/in/deepakrajpurushothaman/) [![Gmail Badge](https://img.shields.io/badge/-deepakrajpurushothaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepakrajpurushothaman@gmail.com)](mailto:deepakrajpurushothaman@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-pestipeti-f96517?style=flat-square&labelColor=4d4d4d&logo=Kaggle&link=https://www.kaggle.com/deepakrajpurushothaman)](https://www.kaggle.com/deepakrajpurushothaman)
 <!--
 **deepakrajpurushothaman/deepakrajpurushothaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
