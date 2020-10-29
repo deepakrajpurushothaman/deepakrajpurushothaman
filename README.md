@@ -9,7 +9,7 @@ If you take a tour through my repositories you will find knowledge related to st
 - 🎉 Winner of Innocentive Open Innovation Challenge. Award: 1000 Euro
 - 🎉 Finalist of Smart Mobility open Innovation contest by Siemens. Award: Design Thinking Workshop at Siemens
 
-- 🧑🏽‍💼 Associated with organizations: Daimler AG, Valeo Siemens eAutomotive, Ford, FEV, Ricardo, IKA RWTH Aachen, Bosch, Meritor Heavy Vehicles, CREST NIE.
+- 🧑🏽‍💼 Associated with organizations: Daimler AG, Valeo Siemens eAutomotive GmbH, Ford Research and Innovation Center, FEV GmbH, Ricardo, IKA RWTH Aachen, Bosch, Meritor Heavy Vehicles, CREST NIE.
 
 - 🔭 I’m currently working on development of Autonomous Vehicles Motion Prediction for Lyft project and validation using Lyft prediction data  
 - 🔭 I’m currently serving as beta tester for coursera
