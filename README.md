@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About me 🧑🏽‍
 
 An open Innovation accelerator and someone who is constantly  looking for problems to solve. I have industrial experience and expertise in building functional and safe solutions for automated driving and electric vehicle. Extremely motivated to transform way we live, way we work and way we MOVE. I am confident in my ability to dream of interesting ideas and bring them to reality.
