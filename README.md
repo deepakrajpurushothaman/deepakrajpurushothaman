@@ -1,6 +1,6 @@
 ## About me 🧑🏽‍
 
-An Innovation accelerator and someone who is constantly looking for problems to solve. I have experience and expertise in creating solutions for Connected, Automated and Electrified vehicle. Extremely motivated to transform way we live, way we work and way we MOVE. I am confident in my ability to dream of interesting ideas and bring them to reality.
+I am a Technology Enthusiast and I have positioned myself by building skills in the emerging technologies that are in required for future human world. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE, way we WORK and way we MOVE. I focus my efforts to dream of interesting ideas and bring them to reality.
 
 - 🎉 Winner of Innocentive Open Innovation Challenge. Award: 1000 Euro
 - 🎉 Finalist of Smart Mobility open Innovation contest by Siemens.
