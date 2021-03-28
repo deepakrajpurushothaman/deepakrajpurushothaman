@@ -2,7 +2,7 @@
 
 I am a Technology Enthusiast and I have positioned myself by building skills in the emerging technologies that are in required for future human world. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE, way we WORK and way we MOVE. I focus my efforts to dream of interesting ideas and bring them to reality.
 
-- 🎉 Winner of Innocentive Open Innovation Challenge. Award: 1000 Euro
+- 🎉 Winner of Innocentive Open Innovation Challenge.
 - 🎉 Finalist of Smart Mobility open Innovation contest by Siemens.
 - 💼 Associated with organizations: Daimler AG, Valeo Siemens eAutomotive GmbH, Ford Research and Innovation Center, FEV GmbH, Ricardo, IKA RWTH Aachen, Bosch, Meritor Heavy Vehicles, CREST NIE. 
 - 🔭 I’m currently serving as beta tester for coursera 
