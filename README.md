@@ -2,7 +2,7 @@
 
 My Value Proposition:
 
-I am a Technology Enthusiast and I have positioned myself by building skills in the emerging technologies that are in required for future human world. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE, way we WORK and way we MOVE. I focus my efforts to dream of interesting ideas and bring them to reality.
+I have passion for Automotive industry with strong interest in mobility markets. I have positioned myself by building skills in the emerging technologies that are in required for future human world. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE and MOVE. I focus my efforts to dream of interesting ideas and bring them to reality.
 
 Key Heighlights:
 - 💼 Associated with organizations:
