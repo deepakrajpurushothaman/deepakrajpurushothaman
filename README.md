@@ -7,7 +7,7 @@ I have passion for Automotive industry with strong interest in mobility markets.
 Key Heighlights:
 - 💼 Associated with organizations:
 Daimler Truck AG, Valeo Siemens eAutomotive GmbH, Ford Research and Innovation center, FEV GmbH, Ricardo GmbH, Institute of Automotive enineering (IKA) at RWTH Aachen, Meritor Heavy Vehicles, Center for renewable energy and sustainable technologies at NIE.
-- 🎉 Winner of Open Innovation Challenge by Innocentive Inc.
+- 🎉 Winner of Open Innovation Case Challenge by Innocentive Inc.
 - 🎉 Finalist of Smart Mobility Innovation contest by Siemens
 - 🎉 1x Kaggle Master. Highest Ranking 293 out of 185196 members
 - 🔭 Engaged in Following Community Work:
