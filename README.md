@@ -2,7 +2,7 @@
 
 My Value Proposition:
 
-I have passion for Automotive industry with strong interest in mobility markets. I have positioned myself by building skills in the emerging technologies that are in required for future of mobility. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE and MOVE. I focus my efforts to dream of interesting ideas and bring them to reality.
+I have passion for Automotive industry with strong interest in mobility markets. I have positioned myself by building skills in the emerging technologies that are in required for future of mobility. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE and MOVE.
 
 Key Heighlights:
 - 💼 Associated with organizations:
