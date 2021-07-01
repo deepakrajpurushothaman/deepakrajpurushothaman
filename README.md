@@ -2,7 +2,7 @@
 
 My Value Proposition:
 
-I have passion to bring new technologies into the world with a strong interest in technologies for mobility markets. I have positioned myself by building skills that are required to observe emerging trends in this VUCA world. I have worked to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE and MOVE.
+I have passion to bring new technologies into the world with a strong interest in technologies for mobility markets. I have positioned myself by building skills that are required to observe emerging trends in this VUCA world. I have worked with a creative mindset to find Technical and Business solutions for Connected, Automated and Electrified vehicle. I use this broad knowledge to transform way we LIVE and MOVE.
 
 Key Heighlights:
 - 💼 Associated with organizations:
