@@ -12,8 +12,6 @@ Daimler Truck AG, Valeo Siemens eAutomotive GmbH, Ford Research and Innovation c
 - 🎉 1x Kaggle Master. Highest Ranking 293 out of 185196 members
 - 🔭 Engaged in Following Community Work:
 Selected to do beta test for courses on coursera, Indian Music community and taste development on Last.fm
-- Research Portfolio:
-✔ Automated Driving ✔ Electric Vehicle ✔ Connected Vehicle
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak_Raj_Purushothaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrajpurushothaman/)](https://www.linkedin.com/in/deepakrajpurushothaman/) [![Gmail Badge](https://img.shields.io/badge/-deepakrajpurushothaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepakrajpurushothaman@gmail.com)](mailto:deepakrajpurushothaman@gmail.com)
 <!--
