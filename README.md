@@ -13,7 +13,7 @@ Key Highlights:
 - Finalist of Global Level Smart Urban Mobility Innovation Challenge by Siemens
 - 1x Kaggle Master. Highest Ranking 293 out of 205208 members
 - Associated with organizations: Daimler AG, Ford, Valeo Siemens, Bosch, FEV Consulting GmbH, Ricardo, Meritor, Automotive Axles Pvt Ltd, Institute of Automotive engineering (IKA) at RWTH Aachen University, Center for renewable energy and sustainable technologies at NIE.
-* Open Source and Community Builder (Music Community, Map Community , Data Science Community)
+- Open Source and Community Builder (Music Community, Map Community , Data Science Community)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak_Raj_Purushothaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrajpurushothaman/)](https://www.linkedin.com/in/deepakrajpurushothaman/) [![Gmail Badge](https://img.shields.io/badge/-deepakrajpurushothaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepakrajpurushothaman@gmail.com)](mailto:deepakrajpurushothaman@gmail.com)
 <!--
