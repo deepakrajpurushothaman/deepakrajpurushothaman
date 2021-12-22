@@ -9,11 +9,9 @@ Specialities: Strategy, R&D, Product Management and Manufacturing / value chain
 Domains: Big Data, IoT, AI, Autonomous vehicles, Electric vehicle, Connected cars and Shared Vehicle
 
 Key Highlights:
-* 🎉
 - Winner of Open Innovation Case Challenge by Innocentive Inc.
 - Finalist of Global Level Smart Urban Mobility Innovation Challenge by Siemens
 - 1x Kaggle Master. Highest Ranking 293 out of 205208 members
-* 💼
 - Associated with organizations: Daimler AG, Ford, Valeo Siemens, Bosch, FEV Consulting GmbH, Ricardo, Meritor, Automotive Axles Pvt Ltd, Institute of Automotive engineering (IKA) at RWTH Aachen University, Center for renewable energy and sustainable technologies at NIE.
 * Open Source and Community Builder (Music Community, Map Community , Data Science Community)
 
