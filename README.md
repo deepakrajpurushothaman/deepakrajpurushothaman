@@ -7,7 +7,7 @@ Specialities: Strategy, R&D, Product Management and Manufacturing / value chain
 Domains: Big Data, IoT, AI, Autonomous vehicles, Electric vehicle, Connected cars and Shared Vehicle
 
 My Value Proposition:
-I have passion to bring new Technologies, Products & Business Models into the real world. My competence portfolio is in the spectrum from management to engineering. I am at my best working at the cross roads of people, technology and economics.
+I have passion to bring new Technologies, Products & Business Models into the real world. My competence portfolio is in the spectrum from management to engineering. I work at the cross roads of Energy, Mobility and Internet. People, technology and economics topics excites me the most
 
 Key Highlights:
 - Associated with organizations: Daimler AG, Ford, Valeo Siemens, Bosch, FEV Consulting GmbH, Ricardo, Meritor, Automotive Axles Pvt Ltd, Institute of Automotive engineering (IKA) at RWTH Aachen University, Center for renewable energy and sustainable technologies at NIE.
