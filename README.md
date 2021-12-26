@@ -4,7 +4,7 @@ Portfolio: https://deepakrajpurushothaman.github.io/
 
 Specialities: Strategy, R&D, Product Management and Manufacturing / value chain
 
-Technologies Domains: Big Data, IoT, AI, Battery, Autonomous vehicles, Electric vehicle, Connected cars and Shared Vehicle
+Technology Domains: Big Data, IoT, AI, Battery, Autonomous vehicles, Electric vehicle, Connected cars and Shared Vehicle
 
 My Value Proposition:
 I have passion to bring new Technologies, Products & Business Models into the real world. My competence portfolio is in the spectrum from management to engineering. I work at the cross roads of Energy, Mobility and Internet. Topics around People, technology and economics excites me the most
