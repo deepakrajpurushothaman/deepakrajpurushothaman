@@ -2,7 +2,7 @@
 
 Website: https://deepakrajpurushothaman.github.io/ 
 
-Specialties I have experience in: Business Strategy, R&D, Product Management, Production / value chain
+Specialties I have experience in: R&D, Product Management, Production management
 
 Technology Portfolio I work with: Electric vehicles, Autonomous vehicles, Connected cars, Big Data, IoT, AI, Battery, UI/UX and Shared Mobility
 
