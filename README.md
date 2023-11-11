@@ -4,13 +4,12 @@ Website: https://deepakrajpurushothaman.github.io/
 
 Specialties I have experience in: Business Strategy, R&D, Product Management, Production / value chain
 
-Technology Portfolio I work with: Big Data, IoT, AI, Battery, Electric vehicles, Autonomous vehicles, Connected cars and Shared Mobility
+Technology Portfolio I work with: Electric vehicles, Autonomous vehicles, Connected cars, Big Data, IoT, AI, Battery, UI/UX and Shared Mobility
 
 My Value Proposition:
 I have passion to bring new Technologies, Products & Business Models into the real world. My competence portfolio is in the spectrum from management to engineering. I work at the cross roads of Energy, Mobility and Internet. Topics around People, technology and economics excites me the most
 
 Key Highlights: 
-- Associated with organizations: Daimler AG, Ford Motor Company, Valeo Siemens, Robert Bosch, FEV Consulting GmbH, Ricardo, Meritor, Automotive Axles Pvt Ltd, Institute of Automotive engineering (IKA) at RWTH Aachen University, Center for renewable energy and sustainable technologies at NIE.
 - Winner of Open Innovation Case Challenge by Innocentive Inc.
 - Finalist of Global Level Smart Urban Mobility Innovation Challenge by Siemens
 - Kaggle Community Master
